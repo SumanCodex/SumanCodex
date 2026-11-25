@@ -23,7 +23,7 @@ I enjoy learning how things work, experimenting with new technologies, contribut
 
 **Languages**
 
-`C` · `C++` · `Python` · `JavaScript`
+`C` · `C++` · `Python` · `JavaScript` · `Luau`
 
 **Currently Exploring**
 
