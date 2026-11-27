@@ -2,7 +2,7 @@
 
 ### IT Undergraduate @ JGEC '30 | Aspiring Software Developer
 
-I'm an IT undergraduate passionate about programming, problem-solving, and exploring the world of technology.
+I'm an Information Technology undergraduate passionate about programming, problem-solving, and exploring the world of technology.
 
 Currently, I'm focused on strengthening my **Data Structures & Algorithms** skills, exploring **Competitive Programming**, and developing a deeper understanding of Computer Science.
 
