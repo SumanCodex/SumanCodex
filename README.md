@@ -23,7 +23,7 @@ I enjoy learning how things work, experimenting with new technologies, contribut
 
 **Languages**
 
-`C` · `C++` · `Python` · `Luau` · `HTML` · `CSS` · `JavaScript`
+`C` · `C++` · `Python` · `Luau` · `HTML` · `CSS` · `JavaScript` · `SQL`
 
 **Currently Exploring**
 
